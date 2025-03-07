@@ -74368,7 +74368,7 @@ s=t.A
 s=A.aj1(A.a([new A.Ld(new A.aN(r,s),r),new A.NY(new A.aN(r,s),r),new A.SW(new A.aN(r,s),r),new A.O1(new A.aN(r,s),r),new A.T_(new A.aN(r,s),r),new A.Rp(new A.aN(r,s),r),new A.LR(new A.aN(r,s),r),new A.RC(new A.aN(r,s),r),new A.Nf(new A.aN(r,s),r),new A.SZ(new A.aN(r,s),r),new A.OL(new A.aN(r,s),r),new A.SK(new A.aN(r,s),r),new A.N8(new A.aN(r,s),r),new A.No(new A.aN(r,s),r),new A.M2(new A.aN(r,s),r)],t.p),!0,!0,!0)
 return new A.Gh(new A.a69(4,0,0,1),s,B.CT,B.aV,!1,r,r,B.Je,!1,r,15,B.a2,B.w5,r,B.E,r)}}
 A.Ld.prototype={
-D(a){return A.e2(B.h,A.ni("assets/images/computer-girl.jpg",B.v,null,this.c,null),!0,!1,new A.a8f(this,a),"About me")}}
+D(a){return A.e2(B.h,A.ni("assets/images/laptop_man.jpg",B.v,null,this.c,null),!0,!1,new A.a8f(this,a),"Sobre mi")}}
 A.a8f.prototype={
 $0(){return A.oU(this.b,this.a.c,new A.a8e())},
 $S:0}
